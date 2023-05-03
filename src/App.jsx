@@ -4,7 +4,11 @@ function App() {
 
   return (
     <>
-     <Drj />
+
+     <div>
+      <h1> Danish</h1>
+     
+      </div>
     </>
   )
 }
